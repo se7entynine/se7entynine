@@ -1,5 +1,4 @@
 ## Hi there I'm se7entynine 👋
----
 I’m currently working on [DropHammer](https://github.com/se7entynine/DropHammer)
 <!--
 **se7entynine/se7entynine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
